@@ -1,0 +1,22 @@
+{
+    "Priest": {
+        "Name": "Anduin Wrynn",
+        "AvatarMaterial": "Anduin_full",
+        "Hp": 30
+    },
+    "Mage": {
+        "Name": "Jaina Proudmoore",
+        "AvatarMaterial": "Jaina_full",
+        "Hp": 30
+    },
+    "Hunter": {
+        "Name": "Rexxar",
+        "AvatarMaterial": "Rexxar_full",
+        "Hp": 30
+    },
+    "Warrior": {
+        "Name": "Garrosh Hellscream",
+        "AvatarMaterial": "Garrosh_full",
+        "Hp": 30
+    }
+}
